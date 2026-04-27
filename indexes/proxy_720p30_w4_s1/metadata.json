@@ -1,0 +1,26 @@
+{
+  "audio_model_id": "LanguageBind/LanguageBind_Audio_FT",
+  "audio_sample_rate": 16000,
+  "audio_weight": 0.5,
+  "batch_size": 48,
+  "created_at": "2026-04-24T16:24:30.655793+00:00",
+  "duration_s": 6221.2,
+  "embedding_dtype": "float16",
+  "embedding_files": {
+    "audio": "audio_embeddings.pt",
+    "scene": "scene_embeddings.pt",
+    "video": "video_embeddings.pt"
+  },
+  "fps": 30.0,
+  "has_audio": true,
+  "num_video_frames": 186636,
+  "num_windows": 6219,
+  "stride_seconds": 1.0,
+  "video_model_id": "LanguageBind/LanguageBind_Video_FT",
+  "video_mtime_ns": 1776965131239792707,
+  "video_name": "proxy_720p30.mp4",
+  "video_path": "data/proxy_720p30.mp4",
+  "video_size_bytes": 3105125031,
+  "video_weight": 0.5,
+  "window_seconds": 4.0
+}

@@ -1,0 +1,422 @@
+[
+  {
+    "window_index": 1,
+    "start_s": 5.0,
+    "end_s": 20.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 12,
+    "start_s": 60.0,
+    "end_s": 75.0,
+    "text_query": "ELIMINADO, REFUERZOS LISTOS"
+  },
+  {
+    "window_index": 24,
+    "start_s": 120.0,
+    "end_s": 135.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 32,
+    "start_s": 160.0,
+    "end_s": 175.0,
+    "text_query": "COMPAÑERO CAÍDO"
+  },
+  {
+    "window_index": 39,
+    "start_s": 195.0,
+    "end_s": 210.0,
+    "text_query": "ELIMINADO"
+  },
+  {
+    "window_index": 47,
+    "start_s": 235.0,
+    "end_s": 250.0,
+    "text_query": "USO DE ESTRATAGEMA, DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 72,
+    "start_s": 360.0,
+    "end_s": 375.0,
+    "text_query": "ELIMINADO, REFUERZOS LISTOS, DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 77,
+    "start_s": 385.0,
+    "end_s": 400.0,
+    "text_query": "ELIMINADO"
+  },
+  {
+    "window_index": 86,
+    "start_s": 430.0,
+    "end_s": 445.0,
+    "text_query": "EN LA NAVE"
+  },
+  {
+    "window_index": 102,
+    "start_s": 510.0,
+    "end_s": 525.0,
+    "text_query": "USO DE ESTRATAGEMA"
+  },
+  {
+    "window_index": 113,
+    "start_s": 565.0,
+    "end_s": 580.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 122,
+    "start_s": 610.0,
+    "end_s": 625.0,
+    "text_query": "REFUERZOS LISTOS, DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 132,
+    "start_s": 660.0,
+    "end_s": 675.0,
+    "text_query": "COMPAÑERO CAÍDO, DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 141,
+    "start_s": 705.0,
+    "end_s": 720.0,
+    "text_query": "ELIMINADO, DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 202,
+    "start_s": 1010.0,
+    "end_s": 1025.0,
+    "text_query": "MISIÓN COMPLETADA"
+  },
+  {
+    "window_index": 215,
+    "start_s": 1075.0,
+    "end_s": 1090.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 244,
+    "start_s": 1220.0,
+    "end_s": 1235.0,
+    "text_query": "USO DE ESTRATAGEMA, DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 254,
+    "start_s": 1270.0,
+    "end_s": 1285.0,
+    "text_query": "REFUERZOS LISTOS, COMPAÑERO CAÍDO, DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 257,
+    "start_s": 1285.0,
+    "end_s": 1300.0,
+    "text_query": "USO DE ESTRATAGEMA"
+  },
+  {
+    "window_index": 262,
+    "start_s": 1310.0,
+    "end_s": 1325.0,
+    "text_query": "ELIMINADO"
+  },
+  {
+    "window_index": 263,
+    "start_s": 1315.0,
+    "end_s": 1330.0,
+    "text_query": "ELIMINADO, REFUERZOS LISTOS, DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 271,
+    "start_s": 1355.0,
+    "end_s": 1370.0,
+    "text_query": "USO DE ESTRATAGEMA"
+  },
+  {
+    "window_index": 313,
+    "start_s": 1565.0,
+    "end_s": 1580.0,
+    "text_query": "USO DE ESTRATAGEMA"
+  },
+  {
+    "window_index": 324,
+    "start_s": 1620.0,
+    "end_s": 1635.0,
+    "text_query": "USO DE ESTRATAGEMA, DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 410,
+    "start_s": 2050.0,
+    "end_s": 2065.0,
+    "text_query": "COMPAÑERO CAÍDO"
+  },
+  {
+    "window_index": 426,
+    "start_s": 2130.0,
+    "end_s": 2145.0,
+    "text_query": "MISIÓN COMPLETADA"
+  },
+  {
+    "window_index": 432,
+    "start_s": 2160.0,
+    "end_s": 2175.0,
+    "text_query": "USO DE ESTRATAGEMA"
+  },
+  {
+    "window_index": 463,
+    "start_s": 2315.0,
+    "end_s": 2330.0,
+    "text_query": "MISIÓN COMPLETADA"
+  },
+  {
+    "window_index": 490,
+    "start_s": 2450.0,
+    "end_s": 2465.0,
+    "text_query": "MISIÓN COMPLETADA, DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 498,
+    "start_s": 2490.0,
+    "end_s": 2505.0,
+    "text_query": "MISIÓN COMPLETADA"
+  },
+  {
+    "window_index": 524,
+    "start_s": 2620.0,
+    "end_s": 2635.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 542,
+    "start_s": 2710.0,
+    "end_s": 2725.0,
+    "text_query": "USO DE ESTRATAGEMA"
+  },
+  {
+    "window_index": 557,
+    "start_s": 2785.0,
+    "end_s": 2800.0,
+    "text_query": "USO DE ESTRATAGEMA, DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 573,
+    "start_s": 2865.0,
+    "end_s": 2880.0,
+    "text_query": "MISIÓN COMPLETADA"
+  },
+  {
+    "window_index": 586,
+    "start_s": 2930.0,
+    "end_s": 2945.0,
+    "text_query": "EN LA NAVE"
+  },
+  {
+    "window_index": 620,
+    "start_s": 3100.0,
+    "end_s": 3115.0,
+    "text_query": "EN LA NAVE"
+  },
+  {
+    "window_index": 692,
+    "start_s": 3460.0,
+    "end_s": 3475.0,
+    "text_query": "EN LA NAVE"
+  },
+  {
+    "window_index": 708,
+    "start_s": 3540.0,
+    "end_s": 3555.0,
+    "text_query": "USO DE ESTRATAGEMA"
+  },
+  {
+    "window_index": 727,
+    "start_s": 3635.0,
+    "end_s": 3650.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 746,
+    "start_s": 3730.0,
+    "end_s": 3745.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 754,
+    "start_s": 3770.0,
+    "end_s": 3785.0,
+    "text_query": "REFUERZOS LISTOS, DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 796,
+    "start_s": 3980.0,
+    "end_s": 3995.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 815,
+    "start_s": 4075.0,
+    "end_s": 4090.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 824,
+    "start_s": 4120.0,
+    "end_s": 4135.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 835,
+    "start_s": 4175.0,
+    "end_s": 4190.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 862,
+    "start_s": 4310.0,
+    "end_s": 4325.0,
+    "text_query": "MISIÓN COMPLETADA, DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 882,
+    "start_s": 4410.0,
+    "end_s": 4425.0,
+    "text_query": "USO DE ESTRATAGEMA, COMPAÑERO CAÍDO"
+  },
+  {
+    "window_index": 895,
+    "start_s": 4475.0,
+    "end_s": 4490.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 899,
+    "start_s": 4495.0,
+    "end_s": 4510.0,
+    "text_query": "MISIÓN COMPLETADA"
+  },
+  {
+    "window_index": 921,
+    "start_s": 4605.0,
+    "end_s": 4620.0,
+    "text_query": "MISIÓN COMPLETADA"
+  },
+  {
+    "window_index": 943,
+    "start_s": 4715.0,
+    "end_s": 4730.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 956,
+    "start_s": 4780.0,
+    "end_s": 4795.0,
+    "text_query": "MISIÓN COMPLETADA"
+  },
+  {
+    "window_index": 962,
+    "start_s": 4810.0,
+    "end_s": 4825.0,
+    "text_query": "USO DE ESTRATAGEMA"
+  },
+  {
+    "window_index": 968,
+    "start_s": 4840.0,
+    "end_s": 4855.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 977,
+    "start_s": 4885.0,
+    "end_s": 4900.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 1001,
+    "start_s": 5005.0,
+    "end_s": 5020.0,
+    "text_query": "USO DE ESTRATAGEMA"
+  },
+  {
+    "window_index": 1017,
+    "start_s": 5085.0,
+    "end_s": 5100.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 1041,
+    "start_s": 5205.0,
+    "end_s": 5220.0,
+    "text_query": "REFUERZOS LISTOS, DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 1072,
+    "start_s": 5360.0,
+    "end_s": 5375.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 1081,
+    "start_s": 5405.0,
+    "end_s": 5420.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 1094,
+    "start_s": 5470.0,
+    "end_s": 5485.0,
+    "text_query": "USO DE ESTRATAGEMA, DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 1099,
+    "start_s": 5495.0,
+    "end_s": 5510.0,
+    "text_query": "ELIMINADO, REFUERZO NO DISPONIBLE"
+  },
+  {
+    "window_index": 1103,
+    "start_s": 5515.0,
+    "end_s": 5530.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 1117,
+    "start_s": 5585.0,
+    "end_s": 5600.0,
+    "text_query": "REFUERZO NO DISPONIBLE, REFUERZOS LISTOS"
+  },
+  {
+    "window_index": 1138,
+    "start_s": 5690.0,
+    "end_s": 5705.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 1145,
+    "start_s": 5725.0,
+    "end_s": 5740.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 1154,
+    "start_s": 5770.0,
+    "end_s": 5785.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 1172,
+    "start_s": 5860.0,
+    "end_s": 5875.0,
+    "text_query": "MISIÓN COMPLETADA"
+  },
+  {
+    "window_index": 1212,
+    "start_s": 6060.0,
+    "end_s": 6075.0,
+    "text_query": "DESCENSO EN CÁPSULA"
+  },
+  {
+    "window_index": 1237,
+    "start_s": 6185.0,
+    "end_s": 6200.0,
+    "text_query": "EN LA NAVE"
+  }
+]

@@ -1,0 +1,27 @@
+# PyTorch CUDA wheels. For RTX Blackwell, prefer a recent CUDA 12.x build.
+--extra-index-url https://download.pytorch.org/whl/cu128
+
+torch>=2.7.0
+torchvision>=0.22.0
+torchaudio>=2.7.0
+torchcodec>=0.5.0
+
+# LanguageBind runtime dependencies.
+transformers>=4.40.0,<5
+accelerate>=0.30.0
+huggingface-hub>=0.23.0
+safetensors>=0.4.3
+einops>=0.7.0
+ftfy>=6.2.0
+iopath>=0.1.10
+opencv-python>=4.9.0.80
+peft>=0.11.0
+pytorchvideo>=0.1.5
+decord>=0.6.0
+soundfile>=0.12.1
+scipy>=1.11.0
+numpy>=1.26.0,<2
+tqdm>=4.66.0
+
+# Notebook kernel support.
+ipykernel>=6.29.0

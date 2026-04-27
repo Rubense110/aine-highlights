@@ -1,1 +1,30 @@
-/data/*
+# Project data and generated artifacts
+/outputs/
+/cache_dir/
+
+# Large media files
+*.mp4
+
+# Python virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Python caches and build outputs
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.env.*
