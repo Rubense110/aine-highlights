@@ -11,9 +11,13 @@
 
 # Python virtual environments
 venv/
+venv_backup/
 .venv/
+.venv*/
 env/
 .env/
+uv-cache/
+.uv-cache/
 
 # Python caches and build outputs
 __pycache__/

@@ -1,0 +1,75 @@
+[project]
+name = "aine-highlights"
+version = "0.1.0"
+description = "Reproducible LanguageBind video-text retrieval experiments for Helldivers 2 gameplay."
+readme = "README.md"
+requires-python = ">=3.12,<3.13"
+dependencies = []
+
+[dependency-groups]
+pretrained = [
+    "accelerate==1.13.0",
+    "decord==0.6.0",
+    "einops==0.8.2",
+    "ftfy==6.3.1",
+    "fvcore==0.1.5.post20221221",
+    "huggingface-hub==0.36.2",
+    "imageio-ffmpeg==0.6.0",
+    "iopath==0.1.10",
+    "numpy==2.4.4",
+    "opencv-python-headless==4.13.0.92",
+    "packaging==26.1",
+    "peft==0.19.1",
+    "pillow==11.3.0",
+    "pytorchvideo==0.1.5",
+    "pyyaml==6.0.3",
+    "safetensors==0.7.0",
+    "tokenizers==0.22.2",
+    "torch==2.11.0",
+    "torchaudio==2.11.0",
+    "torchvision==0.26.0",
+    "tqdm==4.67.3",
+    "transformers==4.57.6",
+    "yacs==0.1.8",
+]
+
+notebook = [
+    "ipykernel==7.2.0",
+    "jupyterlab==4.5.0",
+    "pandas==2.3.3",
+]
+
+full = [
+    { include-group = "pretrained" },
+    "av==17.0.1",
+    "easyocr==1.7.2",
+    "moviepy==2.2.1",
+    "ollama==0.6.1",
+    "opencv-python==4.11.0.86",
+    "python-dotenv==1.2.2",
+    "scikit-image==0.26.0",
+    "soundfile==0.13.1",
+]
+
+dev = [
+    "ruff==0.14.4",
+]
+
+[tool.uv]
+package = false
+
+[tool.uv.sources]
+torch = [
+    { index = "pytorch-cu128", marker = "sys_platform == 'linux' or sys_platform == 'win32'" },
+]
+torchvision = [
+    { index = "pytorch-cu128", marker = "sys_platform == 'linux' or sys_platform == 'win32'" },
+]
+torchaudio = [
+    { index = "pytorch-cu128", marker = "sys_platform == 'linux' or sys_platform == 'win32'" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cu128"
+url = "https://download.pytorch.org/whl/cu128"
+explicit = true
