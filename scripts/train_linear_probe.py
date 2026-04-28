@@ -44,7 +44,7 @@ from scripts.tfvtg_poc import (  # noqa: E402
 
 DEFAULT_DATASET_PATH = Path("data/master_dataset_final.json")
 DEFAULT_VIDEO_PATH = Path("data/proxy_720p30.mp4")
-DEFAULT_OUTPUT_PATH = Path("helldivers_adapter.pth")
+DEFAULT_OUTPUT_PATH = Path("data/models/helldivers_adapter.pth")
 
 
 class VideoTextAdapter(nn.Module):
