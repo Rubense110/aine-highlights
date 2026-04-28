@@ -1,0 +1,175 @@
+[
+    {
+        "query": "A player is accidentally killed by friendly fire.",
+        "target_windows": [
+            23,
+            211,
+            551,
+            558,
+            1029,
+            1223
+        ]
+    },
+    {
+        "query": "A player is accidentally killed during extraction after being incinerated by Pelican-1's engines.",
+        "target_windows": [
+            1219,
+            1223
+        ]
+    },
+    {
+        "query": "A player calls in an Eagle Airstrike Stratagem to clear a bug breach.",
+        "target_windows": [
+            192
+        ]
+    },
+    {
+        "query": "Reinforcements are available for the squad.",
+        "target_windows": [
+            12,
+            70,
+            120,
+            254,
+            263,
+            752,
+            1040
+        ]
+    },
+    {
+        "query": "An Orbital Strike or orbital napalm Stratagem is called in during combat.",
+        "target_windows": [
+            211,
+            212,
+            536
+        ]
+    },
+    {
+        "query": "A player uses a Stratagem during gameplay.",
+        "target_windows": [
+            47,
+            102,
+            192,
+            211,
+            232,
+            244,
+            257,
+            270,
+            271,
+            313,
+            324,
+            432,
+            535,
+            536,
+            542,
+            558,
+            612,
+            708,
+            882,
+            962,
+            992,
+            1001,
+            1093
+        ]
+    },
+    {
+        "query": "A player descends into the battlefield inside a Hellpod.",
+        "target_windows": [
+            11,
+            86,
+            93,
+            96,
+            111,
+            263,
+            698,
+            843,
+            845,
+            992
+        ]
+    },
+    {
+        "query": "A player panics and frantically asks how to use the controls.",
+        "target_windows": [
+            11,
+            16
+        ]
+    },
+    {
+        "query": "A mission objective is completed.",
+        "target_windows": [
+            202,
+            426,
+            463,
+            490,
+            498,
+            573,
+            862,
+            899,
+            921,
+            956,
+            1172
+        ]
+    },
+    {
+        "query": "The squad successfully extracts from the battlefield using Pelican-1.",
+        "target_windows": []
+    },
+    {
+        "query": "The squad is overwhelmed and panicked as casualties mount and bugs keep attacking.",
+        "target_windows": [
+            34,
+            383,
+            454,
+            966,
+            1028,
+            1100,
+            1118
+        ]
+    },
+    {
+        "query": "A player is eliminated in the middle of a massive firefight while teammates scream in panic.",
+        "target_windows": [
+            39,
+            65,
+            1040,
+            1100
+        ]
+    },
+    {
+        "query": "Players are in heavy combat after a bug breach appears.",
+        "target_windows": [
+            1112,
+            1118
+        ]
+    },
+    {
+        "query": "A player calls in reinforcements using a Stratagem.",
+        "target_windows": [
+            14,
+            16,
+            72,
+            270,
+            882
+        ]
+    },
+    {
+        "query": "Players prepare for battle inside the ship.",
+        "target_windows": [
+            586,
+            620
+        ]
+    },
+    {
+        "query": "A teammate is killed in action.",
+        "target_windows": [
+            8,
+            32,
+            74,
+            132,
+            254,
+            400,
+            410,
+            551,
+            882
+        ]
+    }
+]

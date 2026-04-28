@@ -1,6 +1,10 @@
 # Project data and generated artifacts
 /outputs/
 /cache_dir/
+/notebooks/cache_dir/
+
+# Local agent/session files
+.codex
 
 # Large media files
 *.mp4
@@ -24,6 +28,13 @@ dist/
 
 # Notebook checkpoints
 .ipynb_checkpoints/
+
+# Dataset backups / generated legacy snapshots
+/data/legacy/
+/data/**/legacy/
+*_old.json
+*_v[0-9].json
+*_v[0-9][0-9].json
 
 # Local environment files
 .env

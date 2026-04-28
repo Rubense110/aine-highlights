@@ -64,7 +64,6 @@ EVENT_ORDER = (
     "MISIÓN COMPLETADA",
     "USO DE ESTRATAGEMA",
     "COMPAÑERO CAÍDO",
-    "DESCENSO EN CÁPSULA",
 )
 
 
@@ -255,28 +254,6 @@ def detected_keywords_from_ocr(
     return detected_events
 
 
-def detect_hellpod_flames(frame_rgb: np.ndarray) -> bool:
-    """Detect dense bright/saturated exhaust flames in the center-bottom HUD area."""
-    height, width = frame_rgb.shape[:2]
-    y0, y1 = int(height * 0.62), int(height * 0.92)
-    x0, x1 = int(width * 0.42), int(width * 0.58)
-    crop = frame_rgb[y0:y1, x0:x1]
-    if crop.size == 0:
-        return False
-
-    hsv = cv2.cvtColor(crop, cv2.COLOR_RGB2HSV)
-    hue = hsv[:, :, 0]
-    saturation = hsv[:, :, 1]
-    value = hsv[:, :, 2]
-
-    orange_fire = (hue <= 35) & (saturation >= 80) & (value >= 180)
-    white_hot_fire = (saturation <= 80) & (value >= 235)
-    flame_pixels = orange_fire | white_hot_fire
-    flame_ratio = float(np.count_nonzero(flame_pixels)) / float(flame_pixels.size)
-
-    return flame_ratio >= 0.18
-
-
 def batch_detect_keywords_from_ocr(
     reader: Any,
     processed_frames: Sequence[np.ndarray],
@@ -338,9 +315,6 @@ def detect_events_for_frames(
 
     for frame_index, frame_rgb in zip(unique_frame_indices, frame_batch):
         events: set[str] = set()
-        if detect_hellpod_flames(frame_rgb):
-            events.add("DESCENSO EN CÁPSULA")
-
         processed_frames.append(preprocess_for_hud_ocr(frame_rgb))
         original_shapes.append(frame_rgb.shape)
         frame_events[frame_index] = events

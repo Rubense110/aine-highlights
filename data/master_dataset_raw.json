@@ -3,7 +3,7 @@
     "window_index": 1,
     "start_s": 5.0,
     "end_s": 20.0,
-    "text_query": "[Audio: \"Aunque ahora mismo está sonando los juegos muy altos, o sea que no escucho nada. Ah mira, es verdad, las casulas se podían mover.\"] [HUD: \"DESCENSO EN CÁPSULA\"]"
+    "text_query": "[Audio: \"Aunque ahora mismo está sonando los juegos muy altos, o sea que no escucho nada. Ah mira, es verdad, las casulas se podían mover.\"]"
   },
   {
     "window_index": 7,
@@ -51,7 +51,7 @@
     "window_index": 24,
     "start_s": 120.0,
     "end_s": 135.0,
-    "text_query": "[Audio: \"Y luego me he muerto. ¿Qué? Cuidado, cuidado.\"] [HUD: \"DESCENSO EN CÁPSULA\"]"
+    "text_query": "[Audio: \"Y luego me he muerto. ¿Qué? Cuidado, cuidado.\"]"
   },
   {
     "window_index": 25,
@@ -99,7 +99,7 @@
     "window_index": 47,
     "start_s": 235.0,
     "end_s": 250.0,
-    "text_query": "[HUD: \"USO DE ESTRATAGEMA, DESCENSO EN CÁPSULA\"]"
+    "text_query": "[HUD: \"USO DE ESTRATAGEMA\"]"
   },
   {
     "window_index": 57,
@@ -132,10 +132,16 @@
     "text_query": "[Audio: \"Quedan dos esfuerzos, o sea, uno de nosotros no va a bajar. Ah, no, no, ya está, ya está, vale. A partir de ahora quedan dos, bueno. ¡He caído en el agua! ¡Me hago! ¡Me hago! ¡Me hago!\"]"
   },
   {
+    "window_index": 70,
+    "start_s": 350.0,
+    "end_s": 365.0,
+    "text_query": "[HUD: \"ELIMINADO, REFUERZOS LISTOS\"]"
+  },
+  {
     "window_index": 72,
     "start_s": 360.0,
     "end_s": 375.0,
-    "text_query": "[Audio: \"Pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos\"] [HUD: \"ELIMINADO, REFUERZOS LISTOS, DESCENSO EN CÁPSULA\"]"
+    "text_query": "[Audio: \"Pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos, pide refuerzos\"]"
   },
   {
     "window_index": 73,
@@ -213,7 +219,7 @@
     "window_index": 113,
     "start_s": 565.0,
     "end_s": 580.0,
-    "text_query": "[Audio: \"El videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el\"] [HUD: \"DESCENSO EN CÁPSULA\"]"
+    "text_query": "[Audio: \"El videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el videojuego de tres amigos y el\"]"
   },
   {
     "window_index": 114,
@@ -228,22 +234,28 @@
     "text_query": "[Audio: \"¡Oh! ¿Qué haces, eh? ¡Me cago en la puta! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué haces! ¡Qué ha\"]"
   },
   {
+    "window_index": 120,
+    "start_s": 600.0,
+    "end_s": 615.0,
+    "text_query": "[HUD: \"ELIMINADO, REFUERZOS LISTOS\"]"
+  },
+  {
     "window_index": 123,
-    "start_s": 610.0,
+    "start_s": 615.0,
     "end_s": 630.0,
-    "text_query": "[Audio: \"No, no, no, porque no me ha llegado a matar, me ha calorizado ya, moríme muerto. ¿Qué ha pasado yo en vía volando a la otra punta, así súper lejos? Es que está mirando distingue, opción.\"] [HUD: \"REFUERZOS LISTOS, DESCENSO EN CÁPSULA\"]"
+    "text_query": "[Audio: \"No, no, no, porque no me ha llegado a matar, me ha calorizado ya, moríme muerto. ¿Qué ha pasado yo en vía volando a la otra punta, así súper lejos? Es que está mirando distingue, opción.\"]"
   },
   {
     "window_index": 132,
     "start_s": 660.0,
     "end_s": 675.0,
-    "text_query": "[HUD: \"COMPAÑERO CAÍDO, DESCENSO EN CÁPSULA\"]"
+    "text_query": "[HUD: \"COMPAÑERO CAÍDO\"]"
   },
   {
     "window_index": 141,
-    "start_s": 705.0,
+    "start_s": 700.0,
     "end_s": 720.0,
-    "text_query": "[Audio: \"Y yo he hecho estos falsos, me han embarcado al otro lado del lago y ahora tengo que volver a vosotros. Ay, está más tiempo volando. Ay, está más tiempo volando que en ese pueblo, cabrón.\"] [HUD: \"ELIMINADO, DESCENSO EN CÁPSULA\"]"
+    "text_query": "[Audio: \"Y yo he hecho estos falsos, me han embarcado al otro lado del lago y ahora tengo que volver a vosotros. Ay, está más tiempo volando. Ay, está más tiempo volando que en ese pueblo, cabrón.\"] [HUD: \"ELIMINADO\"]"
   },
   {
     "window_index": 142,
@@ -294,12 +306,6 @@
     "text_query": "[Audio: \"Siguiendo que el Napal no es para tu compañero. Siguiendo que el Napal no es para tu compañero. Siguiendo que el Napal no es para tu compañero. Siguiendo que el Napal no es para tu compañero. Siguiendo que el Napal no es para tu compañero. Siguiendo que el Napal no es para tu compañero. Siguiendo que el Napal no es para tu compañero. Siguiendo que el Napal no es para tu compañero. Siguiendo que el Napal no es para tu compañero. Siguiendo que el Napal no es para tu compañero. Siguiendo que el Napal no es para tu compañero. Siguiendo que el Napal no es para tu compañero. Siguiendo que el Napal no es para tu compañero. Siguiendo que el Napal no es para tu compañero. Siguiendo que el Napal no es para tu compañero.\"]"
   },
   {
-    "window_index": 215,
-    "start_s": 1075.0,
-    "end_s": 1090.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
-  },
-  {
     "window_index": 231,
     "start_s": 1155.0,
     "end_s": 1170.0,
@@ -315,13 +321,13 @@
     "window_index": 244,
     "start_s": 1220.0,
     "end_s": 1235.0,
-    "text_query": "[HUD: \"USO DE ESTRATAGEMA, DESCENSO EN CÁPSULA\"]"
+    "text_query": "[HUD: \"USO DE ESTRATAGEMA\"]"
   },
   {
     "window_index": 254,
     "start_s": 1270.0,
     "end_s": 1285.0,
-    "text_query": "[HUD: \"REFUERZOS LISTOS, COMPAÑERO CAÍDO, DESCENSO EN CÁPSULA\"]"
+    "text_query": "[HUD: \"REFUERZOS LISTOS, COMPAÑERO CAÍDO\"]"
   },
   {
     "window_index": 257,
@@ -330,16 +336,10 @@
     "text_query": "[HUD: \"USO DE ESTRATAGEMA\"]"
   },
   {
-    "window_index": 262,
-    "start_s": 1310.0,
-    "end_s": 1325.0,
-    "text_query": "[HUD: \"ELIMINADO\"]"
-  },
-  {
     "window_index": 263,
     "start_s": 1315.0,
     "end_s": 1330.0,
-    "text_query": "[Audio: \"Mucho sobrevivió, eh, patolo caído para llegar.\"] [HUD: \"ELIMINADO, REFUERZOS LISTOS, DESCENSO EN CÁPSULA\"]"
+    "text_query": "[Audio: \"Mucho sobrevivió, eh, patolo caído para llegar.\"] [HUD: \"ELIMINADO, REFUERZOS LISTOS\"]"
   },
   {
     "window_index": 264,
@@ -381,7 +381,7 @@
     "window_index": 324,
     "start_s": 1620.0,
     "end_s": 1635.0,
-    "text_query": "[HUD: \"USO DE ESTRATAGEMA, DESCENSO EN CÁPSULA\"]"
+    "text_query": "[HUD: \"USO DE ESTRATAGEMA\"]"
   },
   {
     "window_index": 362,
@@ -459,19 +459,13 @@
     "window_index": 490,
     "start_s": 2450.0,
     "end_s": 2465.0,
-    "text_query": "[HUD: \"MISIÓN COMPLETADA, DESCENSO EN CÁPSULA\"]"
+    "text_query": "[HUD: \"MISIÓN COMPLETADA\"]"
   },
   {
     "window_index": 498,
     "start_s": 2490.0,
     "end_s": 2505.0,
     "text_query": "[HUD: \"MISIÓN COMPLETADA\"]"
-  },
-  {
-    "window_index": 524,
-    "start_s": 2620.0,
-    "end_s": 2635.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
   },
   {
     "window_index": 534,
@@ -519,7 +513,7 @@
     "window_index": 558,
     "start_s": 2785.0,
     "end_s": 2805.0,
-    "text_query": "[Audio: \"Si yo he muerto sin quererlo ni beberlo, ¿sabes? Todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar\"] [HUD: \"USO DE ESTRATAGEMA, DESCENSO EN CÁPSULA\"]"
+    "text_query": "[Audio: \"Si yo he muerto sin quererlo ni beberlo, ¿sabes? Todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar, todo el mundo va a pasar\"] [HUD: \"USO DE ESTRATAGEMA\"]"
   },
   {
     "window_index": 567,
@@ -621,13 +615,13 @@
     "window_index": 727,
     "start_s": 3635.0,
     "end_s": 3650.0,
-    "text_query": "[Audio: \"A ver, a ver si podemos sacar tres, tres y cuatro. Quien sabe, a ver si no nos caemos en un nido, boludo.\"] [HUD: \"DESCENSO EN CÁPSULA\"]"
+    "text_query": "[Audio: \"A ver, a ver si podemos sacar tres, tres y cuatro. Quien sabe, a ver si no nos caemos en un nido, boludo.\"]"
   },
   {
     "window_index": 747,
-    "start_s": 3730.0,
+    "start_s": 3735.0,
     "end_s": 3750.0,
-    "text_query": "[Audio: \"¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa\"] [HUD: \"DESCENSO EN CÁPSULA\"]"
+    "text_query": "[Audio: \"¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa! ¡Toma de esa\"]"
   },
   {
     "window_index": 748,
@@ -636,40 +630,16 @@
     "text_query": "[Audio: \"Vosotros intentad seguirme más o menos. Vale, mira, vamos ahí para allá, vamos ahí para allá.\"]"
   },
   {
-    "window_index": 754,
-    "start_s": 3770.0,
-    "end_s": 3785.0,
-    "text_query": "[HUD: \"REFUERZOS LISTOS, DESCENSO EN CÁPSULA\"]"
-  },
-  {
-    "window_index": 796,
-    "start_s": 3980.0,
-    "end_s": 3995.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
+    "window_index": 752,
+    "start_s": 3760.0,
+    "end_s": 3775.0,
+    "text_query": "[HUD: \"ELIMINADO, REFUERZOS LISTOS\"]"
   },
   {
     "window_index": 810,
     "start_s": 4050.0,
     "end_s": 4065.0,
     "text_query": "[Audio: \"Joder, no pasa si me paran de estirarme, tío. Joder, no.\"]"
-  },
-  {
-    "window_index": 815,
-    "start_s": 4075.0,
-    "end_s": 4090.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
-  },
-  {
-    "window_index": 824,
-    "start_s": 4120.0,
-    "end_s": 4135.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
-  },
-  {
-    "window_index": 835,
-    "start_s": 4175.0,
-    "end_s": 4190.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
   },
   {
     "window_index": 843,
@@ -699,19 +669,13 @@
     "window_index": 862,
     "start_s": 4310.0,
     "end_s": 4325.0,
-    "text_query": "[HUD: \"MISIÓN COMPLETADA, DESCENSO EN CÁPSULA\"]"
+    "text_query": "[HUD: \"MISIÓN COMPLETADA\"]"
   },
   {
     "window_index": 882,
     "start_s": 4410.0,
     "end_s": 4425.0,
     "text_query": "[HUD: \"USO DE ESTRATAGEMA, COMPAÑERO CAÍDO\"]"
-  },
-  {
-    "window_index": 895,
-    "start_s": 4475.0,
-    "end_s": 4490.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
   },
   {
     "window_index": 899,
@@ -724,12 +688,6 @@
     "start_s": 4605.0,
     "end_s": 4620.0,
     "text_query": "[HUD: \"MISIÓN COMPLETADA\"]"
-  },
-  {
-    "window_index": 943,
-    "start_s": 4715.0,
-    "end_s": 4730.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
   },
   {
     "window_index": 956,
@@ -762,18 +720,6 @@
     "text_query": "[Audio: \"Ah, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón, perdón,\"]"
   },
   {
-    "window_index": 968,
-    "start_s": 4840.0,
-    "end_s": 4855.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
-  },
-  {
-    "window_index": 977,
-    "start_s": 4885.0,
-    "end_s": 4900.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
-  },
-  {
     "window_index": 992,
     "start_s": 4960.0,
     "end_s": 4975.0,
@@ -790,12 +736,6 @@
     "start_s": 5005.0,
     "end_s": 5020.0,
     "text_query": "[HUD: \"USO DE ESTRATAGEMA\"]"
-  },
-  {
-    "window_index": 1017,
-    "start_s": 5085.0,
-    "end_s": 5100.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
   },
   {
     "window_index": 1027,
@@ -823,15 +763,9 @@
   },
   {
     "window_index": 1040,
-    "start_s": 5200.0,
+    "start_s": 5195.0,
     "end_s": 5215.0,
-    "text_query": "[Audio: \"Se me ha comido, tío. Hostia, esto es fuera. Creo que los he tirado fuera del mapa. Quillo, ángel de pumperilla, ¿qué pasa, Quillo? Que no lo sabía. Quillo, que te rebodean, me hizo eso.\"]"
-  },
-  {
-    "window_index": 1041,
-    "start_s": 5205.0,
-    "end_s": 5220.0,
-    "text_query": "[HUD: \"REFUERZOS LISTOS, DESCENSO EN CÁPSULA\"]"
+    "text_query": "[Audio: \"Se me ha comido, tío. Hostia, esto es fuera. Creo que los he tirado fuera del mapa. Quillo, ángel de pumperilla, ¿qué pasa, Quillo? Que no lo sabía. Quillo, que te rebodean, me hizo eso.\"] [HUD: \"ELIMINADO, REFUERZOS LISTOS\"]"
   },
   {
     "window_index": 1045,
@@ -840,34 +774,16 @@
     "text_query": "[Audio: \"Cuidado, cuidado, me mata a este primero, por dios. Vaya caminante. Madre mía. Ah, que encima va a venir el Purpo ese otra vez. Qué Purpo.\"]"
   },
   {
-    "window_index": 1072,
-    "start_s": 5360.0,
-    "end_s": 5375.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
-  },
-  {
-    "window_index": 1081,
-    "start_s": 5405.0,
-    "end_s": 5420.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
-  },
-  {
-    "window_index": 1094,
-    "start_s": 5470.0,
-    "end_s": 5485.0,
-    "text_query": "[HUD: \"USO DE ESTRATAGEMA, DESCENSO EN CÁPSULA\"]"
+    "window_index": 1093,
+    "start_s": 5465.0,
+    "end_s": 5480.0,
+    "text_query": "[HUD: \"USO DE ESTRATAGEMA\"]"
   },
   {
     "window_index": 1100,
     "start_s": 5495.0,
     "end_s": 5515.0,
     "text_query": "[Audio: \"No tenemos al que nos carrear, no tenemos al que nos carrear, no tenemos al que nos carrear, no tenemos al que nos carrear, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete, vete,\"] [HUD: \"ELIMINADO, REFUERZO NO DISPONIBLE\"]"
-  },
-  {
-    "window_index": 1103,
-    "start_s": 5515.0,
-    "end_s": 5530.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
   },
   {
     "window_index": 1108,
@@ -912,34 +828,10 @@
     "text_query": "[Audio: \"Escapad ahí. ¡Cuidado los centáculos! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya! ¡Ya!\"]"
   },
   {
-    "window_index": 1138,
-    "start_s": 5690.0,
-    "end_s": 5705.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
-  },
-  {
-    "window_index": 1145,
-    "start_s": 5725.0,
-    "end_s": 5740.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
-  },
-  {
-    "window_index": 1154,
-    "start_s": 5770.0,
-    "end_s": 5785.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
-  },
-  {
     "window_index": 1172,
     "start_s": 5860.0,
     "end_s": 5875.0,
     "text_query": "[HUD: \"MISIÓN COMPLETADA\"]"
-  },
-  {
-    "window_index": 1212,
-    "start_s": 6060.0,
-    "end_s": 6075.0,
-    "text_query": "[HUD: \"DESCENSO EN CÁPSULA\"]"
   },
   {
     "window_index": 1216,
